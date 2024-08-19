@@ -1,5 +1,12 @@
 Right now it only functions on certain websites because of Content Security Policies (CSP) implemented by some sites.
 
+### Demo
+
+
+https://github.com/user-attachments/assets/351a913b-c87b-4f5d-afc8-abbbf8d946d5
+
+
+
 ## Installation
 - Clone the repo
 - Open your browser and navigate to chrome://extensions/ (for Chrome) or edge://extensions/ (for Edge).
